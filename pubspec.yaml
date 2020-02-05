@@ -16,8 +16,8 @@ dependencies:
     git:
       url: git://github.com/Padimas-Inovasi-Teknologi/basic_components.git
       ref: support_nemob
-  adv_camera: ^0.0.6
-  camera: ^0.5.7
+#  adv_camera: ^0.0.6
+  camera: ^0.5.7+3
   flutter_exif_rotation: ^0.2.7
 #  camera:
 #    git:
